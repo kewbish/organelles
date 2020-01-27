@@ -1,0 +1,84 @@
+body{
+    background: #10354D;
+    padding: 0;
+}
+
+section{
+    margin: 0;
+    padding: 10px;
+}
+
+h1{
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+
+em{
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+}
+
+img{
+    width: 100%;
+    width: 100%;
+}
+
+.custom-div{
+    border-bottom: 1px solid #10354D;
+}
+
+.title{
+    font-size: 120px;
+    margin-bottom: 5px;
+}
+
+.tiny{
+    font-size: 14px;
+}
+
+.main-bar{
+    color: white;
+    background-image: 
+        linear-gradient(#10354D81, #10354D81),
+        url("https://i.imgur.com/L977gH4.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#main-bar-overlay{
+    height: 90vh;
+}
+
+.main-choice{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 25px;
+    color: #10354D;
+}
+
+.main-choice>div{
+    margin: 15px 30px 20px 30px;
+}
+
+.main-bottom{
+    background-color: white;
+    padding-bottom: 5%;
+}
+
+#main-bottom{
+    width: 50%;
+    margin: 0 auto;
+}
+
+/*
+light-teal: #54CEC3
+dark-blue: #1B5E88
+darker-blue: #10354D
+red: #EA7971
+*/
