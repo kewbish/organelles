@@ -116,7 +116,6 @@ div{
 .eukaria-description{
     background-color: white;
     color: #0F2524;
-    padding: 10px 80px 10px 80px;
 }
 
 .eukaria-cta{
@@ -143,9 +142,42 @@ div{
     text-align: right;
 }
 
+#prokaria-body{
+    background-color: #EA7971;
+    color: #2e0f0d;
+}
+
+.prokaria-bar{
+    background: 
+        linear-gradient(#853d387e, #853d387e),
+        url("https://i.imgur.com/eMCjy0t.png");
+    color: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.prokaria-cta{
+    background-color: white;
+}
+
+.prokaria-cta>h1{
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+.prokaria-interactive{
+    color: white;
+    background-color: #853d38;
+}
+
+.prokaria-interactive>h1{
+    font-size: 50px;
+}
+
 /*
 light-teal: #54CEC3
 dark-blue: #1B5E88
 darker-blue: #10354D
-red: #EA7971
+red: 
 */

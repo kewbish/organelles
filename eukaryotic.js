@@ -13,7 +13,7 @@ function centrioles(){
 }
 
 function mitochondria(){
-    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The mitochondria - The powerhouse of the cell™</b><br>Tiny (about 1 - 10µm large) but strong, mitochrondia produce energy to fuel Eukaria. Inside these mini-factories, enzymes chug away to break fuels down into energy. Cellular respiration in the mitochrondia produce ATP (Eukaria's source of fuel and energy) through extracting energy from sugars, fats, and other power sources.<br><br>The outer membrane of the mitrochrondia is smooth, but the inner membrane is folded and wrinkled. This inner membrane, called the cristae, houses the mitochrondial matrix. The matrix contains enzymes, DNA, and ribosomes, which work through cellular respiration. Our factory has a relatively small volume, but a huge inner surface area. The folds in the inner membrane increase its surface area, thereby also increasing its productivity in powering Eukaria.";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The mitochondria - The powerhouse of the cell™</b><br>Tiny (about 1 - 10µm large) but strong, mitochrondia produce energy to fuel Eukaria. Inside these mini-factories, enzymes chug away to break fuels down into energy. Cellular respiration in the mitochrondia produce ATP (Eukaria's source of fuel and energy) through extracting energy from sugars, fats, and other power sources.<br>The outer membrane of the mitrochrondia is smooth, but the inner membrane is folded and wrinkled. This inner membrane, called the cristae, houses the mitochrondial matrix. The matrix contains enzymes, DNA, and ribosomes, which work through cellular respiration. Our factory has a relatively small volume, but a huge inner surface area. The folds in the inner membrane increase its surface area, thereby also increasing its productivity in powering Eukaria.";
 }
 
 function ribosome() {
@@ -25,37 +25,37 @@ function lysosome() {
 }
 
 function nucleus() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The nucleus - The Parliament of Eukaria</b><br>The executive orders and all the laws and rulings of Eukaria come from the nucleus. The nucleus is the most iconic building in Eukaria. Most of the genes in Eukaria can be found in the nucleus (otherwise, they can be found in the mitochrondia or chloroplasts).<br>The nucleus controls the creation of proteins and contains the cell's DNA in the form of chromatin.<br>The information in the nucleus's archives contain all of Eukaria's data, which is crucial in protecting Eukaria. None of the original DNA data ever leaves the nucleus; instead, 'copies' of the DNA are created. The DNA is translated into RNA, which is then allowed out of the nucleus to work with ribosomes to create other proteins.";
+}
+
+function nuclear_envelope() {
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The nuclear envelope - Not-so-secret Service</b><br>Because the nucleus is vital in the function of the cell, what's inside is crucial. The nuclear envelope protects the nucleus 24/7.<br>As with the cell membrane, the nuclear envelope is made up of two police lines. The envelope is made up of an inner and outer membrane. These police lines surround the chromatin, or the DNA, directly. Each membrane contains double phospholipids with their hydrophilic heads oriented outwards, and their hydrophobic heads together. Between the two membranes, there's a small gap, which is attached to parts of the endoplasmic reticulum.";
 }
 
 function nuclear_pore() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The nuclear pore - Parliament's entryways</b><br>The nuclear envelope surrounds Eukaria's parliament, but the President and their colleagues need somewhere to enter. Several perforations in the nuclear envelope, about 100nm in diameter, allow";
 }
 
 function chromatin() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The chromatin - Eukaria's massive library</b><br>Inside the nucleus, DNA is organized into chromatin, the parliament's archive library. Along with proteins, this information is turned into a fibrous material. The individual fibers (when a cell is not replicating) are the individual books in the library, filled with laws and proceedings for replication. When a cell is preparing to replicate, the chromatin fibers condense, being condensed into bookshelves - also known as chromosomes.<br>These chromosomes differ by species. For example, humans usually have 46 chromosomes in their cells, except for reproductive cells, with 23 chromosomes.";
 }
 
 function rough_er() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The Rough ER - Eukaria's assembly lines</b><br>ER stands for endoplasmic reticulum, a twisty, folded area of membrane. It comprises a network of tubules and cisternae, or sacs of liquid. Both types of ER are employed in Eukaria as factories: the rough ER as a protein factory, and the smooth as a fat factory.<br>Ribosomes attach themselves to rough ER, essential for proteins that are secreted by cells. Rough ER acts as a assembly line, moving proteins produced by the ribosomes through the ER and adding other bits and pieces.<br>Inside, the proteins adds extra proteins and phospholipids. After a protein is finished, it goes either to another organelle or to the Golgi apparatus for further processing. Some proteins may even stay inside the ER. Regardless of end destination, the proteins are exported via vesicles.";
 }
 
 function smooth_er() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
-}
-
-function centrosome() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The Smooth ER - The Rough ER's Sister Factory</b><br>- see rough ER for ER definition-<br>The smooth ER is so named because it lacks the ribosomes attached to the surface of rough ER. Both work closely together, but the smooth ER focuses on lipid and phospholipid production.<br>Using enzymes located in the smooth ER, lipids and phospholipids are synthesized. With proteins from the rough ER, it can add a wing to the factory and synthesis more membrane.<br>The smooth ER also has a disposal department. The smooth ER, especially in the liver, detoxifies drugs and poisons and helps metabolize carbohydrates. When hydroxyl (*OH) groups are added to these, the drugs are easier to remove from the body as they're now more soluble. Alcohol, among other drugs, prompt the ER to replicate its enzymes. Additionally, this decreases the effectiveness of certain drugs, even if they weren't initially the prompters for replication. Carbohydrates can be hydrolyzed, and any phosphates removed by enzymes in the smooth ER.";
 }
 
 function flagella() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The flagella - Eukaria's tugboat force</b><br>Flagella and cilia can be likened to a group of tugboats, moving cells around. Here, I've pictured flagella, which are longer and fewer, whereas cilia are found in larger groups and are shorter.<br>Flagella and cilia are cellular appendages that protrude from the cell membrane. Many smaller organisms move through water through cilia or flagella. Nine couplets of microtubules in a ring formation, as well as two microtubules in the middle, form a single cilia or flagella. These microtubule formations are extended from the cell membrane.<br>A single cell usually only has one to several flagella. Flagella are about 0.25µm in diameter and 10-200µm in length. It moves in a wave-like motion, creating a propeller effect.<br>Cilia can be found in large groups, unlike the flagella. They are the same diamter as flagella, but shorter, at about 2-20µm in length. Cilia function as oars, moving back and forth to move the cell.";
 }
 
 function golgi_apparatus() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The Golgi apparatus - The port of Eukaria</b><br>When transport vesicles are finished by the ER, they travel to Eukaria's port: the Golgi apparatus. Here, everything is finished, sorted, and shipped out.<br>The Golgi apparatus is very linear, with two faces: cis and trans. The cis face acts as the receiving docks of the port, constantly receiving trucks coming in with vesicles. Usually, this cis face is closer to the ER, facilitating transport. The truck, with its vesicle, will fuse with the cis face, adding its vesicle's membrane and contents (from the lumen, or inside cavity).<br>When moving through the Golgi apparatus, the vesicle undergoes several changes. Proteins and phosopholipids are often changed, for example. As well, the Golgi apparatus can add some macromolecules, such as polysaccharides (carbohydrates).<br>The trans face acts as the shipping area, where sorting and mailing occurs. Certain molecules, such as those added from the Golgi complex, aid in identifying and categorizing the vesicles. There, the vesicle ships leave the port, bound usually for the cell membrane or another organelle.";
 }
 
 function golgi_vesicle() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>A Golgi vesicle - Armoured ttansportation</b><br>Golgi vesicles are vesicles in / out-bound from the Golgi apparatus. Vesicles are sac-like containers of membrane, usually sent from the ER, or outbound for .<br>Vesicles provide a secure method of transportation. Things that cannot be in contact with the cytoplasm, like lipids, for example, go inside these vesicles for transportation.";
 }
