@@ -33,7 +33,7 @@ function nuclear_envelope() {
 }
 
 function nuclear_pore() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The nuclear pore - Parliament's entryways</b><br>The nuclear envelope surrounds Eukaria's parliament, but the President and their colleagues need somewhere to enter. Several perforations in the nuclear envelope, about 100nm in diameter, allow";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The nuclear pore - Parliament's entryways</b><br>The nuclear envelope surrounds Eukaria's parliament, but the President and their colleagues need somewhere to enter. Several perforations in the nuclear envelope, about 100nm in diameter, control the entry and exit of macromolecules. It allows proteins and RNA through, for example, permitting various nuclear processes to work. The nuclear pore regulates all communication, so can also be likened to a Parliamentary <del>censor</del> proofreader.";
 }
 
 function chromatin() {
@@ -49,7 +49,7 @@ function smooth_er() {
 }
 
 function flagella() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The flagella - Eukaria's tugboat force</b><br>Flagella and cilia can be likened to a group of tugboats, moving cells around. Here, I've pictured flagella, which are longer and fewer, whereas cilia are found in larger groups and are shorter.<br>Flagella and cilia are cellular appendages that protrude from the cell membrane. Many smaller organisms move through water through cilia or flagella. Nine couplets of microtubules in a ring formation, as well as two microtubules in the middle, form a single cilia or flagella. These microtubule formations are extended from the cell membrane.<br>A single cell usually only has one to several flagella. Flagella are about 0.25µm in diameter and 10-200µm in length. It moves in a wave-like motion, creating a propeller effect.<br>Cilia can be found in large groups, unlike the flagella. They are the same diamter as flagella, but shorter, at about 2-20µm in length. Cilia function as oars, moving back and forth to move the cell.";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>The flagella - Eukaria's tugboat force</b><br>Flagella and cilia can be likened to a group of tugboats, moving cells around. Here, I've pictured flagella, which are longer and fewer, whereas cilia are found in larger groups and are shorter than flagella.<br>Flagella and cilia are cellular appendages that protrude from the cell membrane. Many smaller organisms move through water through cilia or flagella. Nine couplets of microtubules in a ring formation, as well as two microtubules in the middle, form a single cilia or flagella. These microtubule formations are extended from the cell membrane.<br>A single cell usually only has one to several flagella. Flagella are about 0.25µm in diameter and 10-200µm in length. It moves in a wave-like motion, creating a propeller effect.<br>Cilia can be found in large groups, unlike the flagella. They are the same diamter as flagella, but shorter, at about 2-20µm in length. Cilia function as oars, moving back and forth to move the cell.";
 }
 
 function golgi_apparatus() {
@@ -57,5 +57,5 @@ function golgi_apparatus() {
 }
 
 function golgi_vesicle() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "<b>A Golgi vesicle - Armoured ttansportation</b><br>Golgi vesicles are vesicles in / out-bound from the Golgi apparatus. Vesicles are sac-like containers of membrane, usually sent from the ER, or outbound for .<br>Vesicles provide a secure method of transportation. Things that cannot be in contact with the cytoplasm, like lipids, for example, go inside these vesicles for transportation.";
+    document.getElementById("eukaria-interactive-text").innerHTML = "<b>A Golgi vesicle - Armoured transportation</b><br>Golgi vesicles are vesicles in / out-bound from the Golgi apparatus. Vesicles are sac-like containers of membrane, usually sent from the ER, or outbound for .<br>Vesicles provide a secure method of transportation. Things that cannot be in contact with the cytoplasm, like lipids, for example, go inside these vesicles for transportation.";
 }

@@ -17,6 +17,7 @@ p{
     font-family: Montserrat, sans-serif;
     font-size: 20px;
     margin-top: 2px;
+    margin-bottom: 5px;
 }
 
 em{
@@ -27,6 +28,10 @@ em{
 img{
     width: 100%;
     width: 100%;
+}
+
+a:visited, a:hover{
+    color: white;
 }
 
 .custom-div{
@@ -76,18 +81,30 @@ div{
     grid-column-gap: 25px;
 }
 
+#main-body>section>.main-choice{
+    grid-template-columns: 1fr 1fr;
+}
+
 .main-choice>div{
     margin: 15px 30px 20px 30px;
 }
 
 .main-bottom{
     background-color: white;
-    padding-bottom: 3%;
 }
 
 #main-bottom{
     width: 50%;
     margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.main-citations{
+    color: white;
+}
+
+#main-citations{
+    margin-top: 10px;
 }
 
 .citations-main{
@@ -172,6 +189,7 @@ div{
 }
 
 .prokaria-interactive>h1{
+    text-align: center;
     font-size: 50px;
 }
 

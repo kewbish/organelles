@@ -1,33 +1,29 @@
-// document.getElementById("eukaria-interactive-text").innerHTML = "X";
+// document.getElementById("prokaria-interactive-text").innerHTML = "X";
 
 function ribosome() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("prokaria-interactive-text").innerHTML = "<b>The ribosome - Prokaria's <del>sweatshop</del> workshop</b><br>Prokaria's ribosome factories are slightly smaller than Eukaria's. As well, the proteins and RNA inside differ, meaning some antibiotics that don't affect Eukaria unfortunately do shut down Prokaria's manufacturing.<br>Ribosomes take RNA and translates it into proteins through amino acids. Each ribosome is made of two subunits: a 50S and 30s subunit.<br>The chromosome's genes are transcribed into RNA, which then travels to the ribosomes and turned into proteins. These proteins have different functions around the bacteria, like enzymes or structure.";
 }
 
 function nucleoid() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("prokaria-interactive-text").innerHTML = "<b>The nucleoid - Prokaria's White House</b><br>Prokaria's government, as with most of Prokaria, is simpler than prokaria's. Prokaria has ~1/1000th of prokaria's law archive information, but it's arranged in a different way. The nucleoid lacks a nuclear membrane, instead acting as a region where the DNA is concentrated.<br>The DNA, instead of being found in a nucleus, is found in an arrangement of scrunched-up fibers, called the prokaryotic chromosome. The chromosome is actually one molecule of DNA, arranged into a ring.<br>As well, smaller arrangments of DNA can be found around Prokaria, called plasmids. These smaller law policy libraries only contain several genes. Most prokaryotes can work without plasmids, as the crucial functions are coded into the prokaryotic chromosome. However, these plasmids add additional security (the genes won't be completely gone in case of attack) against the bad guys: antibiotics.";
 }
 
 function capsule() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("prokaria-interactive-text").innerHTML = "<b>The capsule - Outside Guards</b><br>Though Prokaria's border forces are strong, the capsule layer of Prokaria is stronger. The capsule is formed of carbohydrates, creating a sticky layer on the outside of Prokaria. It helps attach the bacteria to other structures in its surroundings.<br>As well, the capsule provides auxiliary protection, working with the other membranes to shield the cell. These safeguards can decrease the effectiveness of host defenses, for bacteria that are pathogenic (causing disease).<br>Capsules also provide a way for bacteria to work together. The adhesive capsule allows bacteria (or other prokaryotes) to stick together, and live as colonies.";
 }
 
 function cell_wall() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("prokaria-interactive-text").innerHTML = "<b>The cell wall - Prokaria's border wall</b><br>As the capsule protects everything else inside the bacteria, the cell wall protects the plasma membrane and everything inside. As Prokaria's border, the cell wall provides structure and maintains the bacteria's shape. It also prevents the cell from exploding out under high outside pressures.<br>Prokaria's border wall is constructed out of peptidoglycan, a substance called a polymer - a substance formed from lots of similar or the same units. Peptidoglycan is formed of sugars and amino acids, producing a strong network protecting the entire cell.<br>Identifying bacteria can be difficult, but the cell wall plays a huge part in doing so. The Gram stain test, in which you counterstain bacteria to examine what bonds to the cell wall, is a valuable tool. Gram-positive bacteria are stained purple, due to their large amounts of peptidoglycan and thicker cell walls that retain the purple dye. Gram-negative bacteria are stained red, due to their thinner cell walls that the alcohol rinse can remove the stain from.";
 }
 
 function plasma_membrane() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("prokaria-interactive-text").innerHTML = "<b>The plasma membrane - Prokaria's border agents</b><br>As with prokaria, Prokaria also has a plasma membrane. This plasma membrane features a double layer of guards, separating the border wall from the rest of Prokaria.<br>This double layer is formed mainly of phospholipids, a type of special lipid or 'fat'. Each phospholipid has a hydrophobic and hydrophilic head. In the border, the hydrophobic heads are oriented together, where the hydrophilic heads are oriented outwards. This arrangment favours the tendencies of each phospholipid.<br>In addition, proteins and cholesterol may be present, serving as through-channels or to affect liquidity of the membrane.";
 }
 
 function cytoplasm() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("prokaria-interactive-text").innerHTML = "<b>The cytoplasm - Air not needed</b><br>Prokaria's version of atmosphere is cytoplasm. In the cytoplasm, all the DNA and other things inside the prokaryote are suspended. This cytoplasm is the region bound by the plasma membrane, as bacteria lack a nucleus.<br>Most of cytoplasm is cytosol, a semifluid substance mainly made up of water, but also contains proteins. These proteins, including glucose and other macromolecules, make the cytosol into a jelly-like consistency.<br>Until recently, bacteria were thought to lack a cytoskeleton. However, in some bacteria, particularly rod bacteria, filament systems do exist, formed by actin homologs (proteins that form microfilaments). This cytoskeleton exists primarily to help the bacteria keep its shape.";
 }
 
 function flagella() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
-}
-
-function cilia() {
-    document.getElementById("eukaria-interactive-text").innerHTML = "X";
+    document.getElementById("prokaria-interactive-text").innerHTML = "<b>The flagella - Prokaria's truck fleet</b><br>Prokaryotic flagella help move Prokaria around, like trucks, except these flagella are transporting a mini-city.<br>Flagella in Prokaria are smaller than those in Eukaria: about 1/10th of Eukaria's size. The flagella move in a circular propeller motion, moving Prokaria.<br>Without a stimulus, Prokaria usually just drifts randomly. Many prokaryotes can use taxis, a movement function to go towards stimulus. Prokaryotes can host receptor molecules on their cell wall, which can detect chemical stimuli (moving towards nutrients or away from danger), light stimuli, or even magnetic fields, helping Prokaria find nutrients near the bottom of ponds, for example.";
 }
