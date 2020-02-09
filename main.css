@@ -58,6 +58,11 @@ div{
     text-decoration: underline 1px #10354D;
 }
 
+.citation{
+    padding-left: 30px;
+    text-indent: -30px;
+}
+
 #main-body{
     color: #10354D;
 }
